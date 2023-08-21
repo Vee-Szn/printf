@@ -2,7 +2,7 @@
 
 /**
  * get_flags - Calculates active flags
- * by Ruth and Angel
+ * by Ruth and Angel Ifudera
  * @format: Formatted string in which to print the arguments
  * @i: take a parameter.
  * Return: Flags:
